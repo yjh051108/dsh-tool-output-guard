@@ -1,7 +1,3 @@
-> ⚠️ 本仓已并入 [yjh051108/dsh-omc](https://github.com/yjh051108/dsh-omc)（单仓库化）。
-> 新装：`git clone https://github.com/yjh051108/dsh-omc && cd dsh-omc && ./install.sh`
-> 本仓保留为历史镜像；已 clone 的仍可 pull。
-
 # @dsh-external/dsh-tool-output-guard
 
 **工具结果的「消息契约」守卫**：把不合形的 `output.render` 返回值在 `tools/post-execute`
